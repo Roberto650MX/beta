@@ -1,0 +1,7 @@
+git clone {url de nuestro repositorio}
+cd {nombre de nuestra carpeta o repositorio}
+git add -A {para todos los archivos o el nombre del archivo}
+git status {Para ver lo que se subira}
+ git config --global user.email "{correo}"
+git commit -m "{Notas de los cambios echos}"
+git push {Para subir los archivos}
